@@ -10,4 +10,11 @@
 
 包含完整的开始界面，载入界面，游戏界面和暂停重来界面
 
+开始界面请左右拖拽！
+
 ![](https://github.com/YonYuan/DrinkandDie/blob/master/GamePre.png)
+![](https://github.com/YonYuan/A-Game-Prototype/blob/master/ScreenShot/2.png)
+![](https://github.com/YonYuan/A-Game-Prototype/blob/master/ScreenShot/3.png)
+![](https://github.com/YonYuan/A-Game-Prototype/blob/master/ScreenShot/4.png)
+![](https://github.com/YonYuan/A-Game-Prototype/blob/master/ScreenShot/5.png)
+![](https://github.com/YonYuan/A-Game-Prototype/blob/master/ScreenShot/6.png)
